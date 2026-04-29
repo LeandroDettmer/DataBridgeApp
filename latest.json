@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "DataBridge 0.1.1",
-  "pub_date": "2026-04-29T16:08:10Z",
+  "version": "0.1.2",
+  "notes": "DataBridge 0.1.2",
+  "pub_date": "2026-04-29T16:21:37Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenIxQUE1bUFqN1JEN1h3WlYzcjYxd1Z5bzUxL0hva1NKdXpsaTZOTjN2UlRaOXpMOTh1UEMxRDIyRm40NTNGWEV1ZVVQbmJTZFZIV2xCdGhUdlFWbDZzRFFVcmQvbEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc4MzY3CWZpbGU6RGF0YUJyaWRnZS5hcHAudGFyLmd6CnRiTVB6cGo3c01RWEJnaXNNd1FBMWVJRHA3MUZFYWxINGZiOFAyZDJVLzZBZXh2ZWZtRlcwV1BrdGdTanR1Y0NQRkZlOXhKUlhLbnN1TUp0U3pOQ0N3PT0K",
-      "url": "https://github.com/LeandroDettmer/DataBridgeApp/releases/download/v0.1.1/DataBridge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenIxQUE1bUFqN1NWbEM3RmppaWlTemloYkVFdm4xRUx2K2xvZEUyY2NWbHRYbmxxc2t4VnZMQ3RVUEZQRWNFdWwrWStPN251QnJuSXA2RGFGNzNrdUNJcEVpbXRlTkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc5NjQ1CWZpbGU6RGF0YUJyaWRnZS5hcHAudGFyLmd6CjFFWjBRSnVENmNpc1gwb2hXdU5OQ1hURkJsTTBnUVlacThkVTRRWmpMaEhsRVhkSTZnY2p3akJhbDRSR0VvUTRFd0hBUDhOQ2I1QkhpcEVnVkFvUURnPT0K",
+      "url": "https://github.com/LeandroDettmer/DataBridgeApp/releases/download/v0.1.2/DataBridge.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenIxQUE1bUFqN1JEN1h3WlYzcjYxd1Z5bzUxL0hva1NKdXpsaTZOTjN2UlRaOXpMOTh1UEMxRDIyRm40NTNGWEV1ZVVQbmJTZFZIV2xCdGhUdlFWbDZzRFFVcmQvbEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc4MzY3CWZpbGU6RGF0YUJyaWRnZS5hcHAudGFyLmd6CnRiTVB6cGo3c01RWEJnaXNNd1FBMWVJRHA3MUZFYWxINGZiOFAyZDJVLzZBZXh2ZWZtRlcwV1BrdGdTanR1Y0NQRkZlOXhKUlhLbnN1TUp0U3pOQ0N3PT0K",
-      "url": "https://github.com/LeandroDettmer/DataBridgeApp/releases/download/v0.1.1/DataBridge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenIxQUE1bUFqN1NWbEM3RmppaWlTemloYkVFdm4xRUx2K2xvZEUyY2NWbHRYbmxxc2t4VnZMQ3RVUEZQRWNFdWwrWStPN251QnJuSXA2RGFGNzNrdUNJcEVpbXRlTkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc5NjQ1CWZpbGU6RGF0YUJyaWRnZS5hcHAudGFyLmd6CjFFWjBRSnVENmNpc1gwb2hXdU5OQ1hURkJsTTBnUVlacThkVTRRWmpMaEhsRVhkSTZnY2p3akJhbDRSR0VvUTRFd0hBUDhOQ2I1QkhpcEVnVkFvUURnPT0K",
+      "url": "https://github.com/LeandroDettmer/DataBridgeApp/releases/download/v0.1.2/DataBridge.app.tar.gz"
     }
   }
 }
